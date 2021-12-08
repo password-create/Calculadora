@@ -27,7 +27,7 @@ Exemplo de Adição:
 
 ![myimage-alt-tag](https://media.discordapp.net/attachments/906415495098535996/917925946328219678/unknown.png)
 
-Nessa imagem, eu fiz uma adição de 10 + 10 utilizando o operador matemático "+", primeiro você informa o número que você deseja somar, logo após insira o operador "+", e infomrme um novo número, esse número será somado com o número anterior.
+Nessa imagem, eu fiz uma adição de 10 + 10 utilizando o operador matemático "+", primeiro você informa o número que você deseja somar, logo após insira o operador "+", e informe um novo número, esse número será somado com o número anterior.
 
 Resultado da Adição:
 
