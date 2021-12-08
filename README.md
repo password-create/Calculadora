@@ -14,13 +14,10 @@ Objetivo: Realizar operações matemáticas
 
 Operadores:
 
-Adição: +
-
-Subtração: -
-
-Multiplicação: x
-
-Divisão: /
+* Adição: +
+* Subtração: -
+* Multiplicação: x
+* Divisão: /
 
 Para ver o resultado da operação clique no botão onde se encontra o sinal de igual(=).
 
