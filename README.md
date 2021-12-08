@@ -3,7 +3,9 @@
 * Características:
 
 Linguagem de Programação: C# 
+
 Feito com: Windows Forms
+
 Objetivo: Realizar operações matemáticas 
 
 * Como usar:
@@ -13,11 +15,15 @@ Objetivo: Realizar operações matemáticas
 Operadores:
 
 Adição: +
+
 Subtração: -
+
 Multiplicação: x
+
 Divisão: /
 
 Para ver o resultado da operação clique no botão onde se encontra o sinal de igual(=).
+
 Use os números que você deseja calcular junto com os operadores matemáticos.
 
 Exemplo de Adição:
